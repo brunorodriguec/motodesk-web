@@ -1,5 +1,5 @@
 # motodesk-web
-MotoDesk** is a Micro-SaaS designed to automate the initial triage for motorcycle workshops. It uses Artificial Intelligence to chat with customers, validate schedules, and organize service orders automatically.
+**MotoDesk** is a Micro-SaaS designed to automate the initial triage for motorcycle workshops. It uses Artificial Intelligence to chat with customers, validate schedules, and organize service orders automatically.
 
 ##  Features
 - **AI Triage:** Powered by **Gemini 3**, the assistant handles customer inquiries and collects essential data (Name, Bike Model, License Plate).
